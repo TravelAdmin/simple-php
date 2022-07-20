@@ -1,4 +1,4 @@
 
 <?php
-echo ("Welcome to my Website abc ");
+echo ("Welcome to TravelTrivia ");
 ?>
